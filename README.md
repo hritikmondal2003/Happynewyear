@@ -1,6 +1,6 @@
 # ​ Happy New Year Animation 🎉
 
-A stylish New Year greeting webpage with **smooth 3-second year transition animations** and **cool neon gradient colors**.  
+A stylish New Year greeting  with **smooth 3-second year transition animations** and **cool neon gradient colors**.  
 Built with **HTML**, **CSS**, and **vanilla JavaScript** – no external JS libraries required.
 
 ---
